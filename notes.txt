@@ -1,3 +1,5 @@
 git init // for initalizing repository
 git add <file>
 git commit -m "your message in here"
+git status // status check 
+save // ctrl and S always
